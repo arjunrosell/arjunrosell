@@ -1,5 +1,5 @@
 # 💫 About Me
-<img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/arjunrosell/arjunrosell/main/views.json&style=flat-square" alt="PROFILE VIEWS" width="170">
+![Profile Views](https://komarev.com/ghpvc/?username=arjunrosell&color=brightgreen&style=flat-square)
 
 ### Hey! I'm Arjun P. Rosell 👋
 
@@ -11,13 +11,13 @@ I enjoy building **web applications**, exploring **cybersecurity tools**, and le
 ## 💻 My Skills
 
 ### 👨‍💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,php,sql,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" />
 
 ### 🚀 Frameworks & Libraries
 <img src="https://skillicons.dev/icons?i=laravel,vue,bootstrap,tailwind" />
 
 ### 🗃️ Databases
-<img src="https://skillicons.dev/icons?i=mysql,sql" />
+<img src="https://skillicons.dev/icons?i=mysql,sqllite" />
 
 ### 🔧 Tools, Servers & Version Control
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,xampp,elememtor,woocommerce,cloudflare,active-directory,bash,ubuntu,nginx,apache,digitalocean,aws" />  
