@@ -1,8 +1,7 @@
 # 💫 About Me
-### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=arjunrosell&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=arjunrosell&color=brightgreen&style=flat-square)
 
-# Hey! I'm Arjun P. Rosell 👋
+Hey! I'm Arjun P. Rosell 👋
 
 I'm a **Software Developer** and **Cybersecurity Enthusiast** from the Philippines.  
 I enjoy building **web applications**, exploring **cybersecurity tools**, and learning new technologies every day.
