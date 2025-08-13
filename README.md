@@ -25,7 +25,8 @@ I enjoy building **web applications**, exploring **cybersecurity tools**, and le
 ### Cybersecurity & Tools
 <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,powershell" />
 
-![Colorful Line](https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif)
+## 📈 Contribution Activity
+![Arjun's GitHub Stats](https://github-readme-activity-graph.cyclic.app/graph?username=arjunrosell&theme=github)
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosellarjunp/)
