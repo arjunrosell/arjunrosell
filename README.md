@@ -1,5 +1,5 @@
 # 💫 About Me
-<img src="https://komarev.com/ghpvc/?username=arjunrosell&color=brightgreen&style=flat-square" alt="Profile Views" width="200">
+![Profile Views](https://komarev.com/ghpvc/?username=arjunrosell&color=brightgreen&style=flat-square&width=170)
 
 ###Hey! I'm Arjun P. Rosell 👋###
 
