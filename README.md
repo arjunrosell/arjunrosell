@@ -6,7 +6,6 @@
 I'm a **Software Developer** and **Cybersecurity Enthusiast** from the Philippines.  
 I enjoy building **web applications**, exploring **cybersecurity tools**, and learning new technologies every day.
 
----
 ![Colorful Line](https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif)
 
 ## 💻 My Skills
@@ -20,7 +19,7 @@ I enjoy building **web applications**, exploring **cybersecurity tools**, and le
 ### Cybersecurity & Tools
 <img src="https://skillicons.dev/icons?i=linux,metasploit,nmap,burpsuite" />
 
----
+![Colorful Line](https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif)
 
 ## 🛠️ Technologies I Use
 - **Frontend:** HTML, CSS, JavaScript, Vue.js, React  
