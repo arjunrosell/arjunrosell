@@ -1,4 +1,4 @@
-# Hi there, I'm Arjun 👋
+# Hey! I'm Arjun P. Rosell 👋
 
 I'm a **Software Developer** and **Cybersecurity Enthusiast** from the Philippines.  
 I enjoy building **web applications**, exploring **cybersecurity tools**, and learning new technologies every day.
