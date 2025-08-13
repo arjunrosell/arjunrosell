@@ -1,5 +1,5 @@
 # 💫 About Me
-![PROFILE VIEWS](https://komarev.com/ghpvc/?username=arjunrosell&color=brightgreen&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=arjunrosell&color=brightgreen&style=flat-square)
 
 ### Hey! I'm Arjun P. Rosell 👋
 
@@ -7,6 +7,7 @@ I'm a **Software Developer** and **Cybersecurity Enthusiast** from the Philippin
 I enjoy building **web applications**, exploring **cybersecurity tools**, and learning new technologies every day.
 
 ---
+![Colorful Line](https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif)
 
 ## 💻 My Skills
 
