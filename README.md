@@ -11,7 +11,7 @@ I enjoy building **web applications**, exploring **cybersecurity tools**, and le
 ## 💻 My Skills
 
 ### 👨‍💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,java,c,mysql" />
 
 ### 🚀 Frameworks & Libraries
 <img src="https://skillicons.dev/icons?i=laravel,vue,bootstrap,tailwind" />
