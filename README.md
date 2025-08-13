@@ -11,19 +11,19 @@ I enjoy building **web applications**, exploring **cybersecurity tools**, and le
 ## 💻 My Skills
 
 ### 👨‍💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,php,java,c,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,java,c" />
 
 ### 🚀 Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=laravel,vue,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=laravel,vue,bootstrap,tailwind,vite" />
 
 ### 🗃️ Databases
 <img src="https://skillicons.dev/icons?i=mysql,sqllite" />
 
 ### 🔧 Tools, Servers & Version Control
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,xampp,elememtor,woocommerce,cloudflare,active-directory,bash,ubuntu,nginx,apache,digitalocean,aws" />  
+<img src="https://skillicons.dev/icons?i=windows,ubuntu,vscode,sublime,git,github,figma,cloudflare,nginx,apache,digitalocean,aws" />  
 
 ### Cybersecurity & Tools
-<img src="https://skillicons.dev/icons?i=linux,metasploit,nmap,burpsuite" />
+<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,powershell" />
 
 ## 🛠️ Technologies I Use
 - **Frontend:** HTML, CSS, JavaScript, Vue.js, Bootstrap, TailwindCSS  
