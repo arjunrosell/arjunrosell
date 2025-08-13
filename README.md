@@ -17,23 +17,13 @@ I enjoy building **web applications**, exploring **cybersecurity tools**, and le
 <img src="https://skillicons.dev/icons?i=laravel,vue,bootstrap,tailwind,vite" />
 
 ### 🗃️ Databases
-<img src="https://skillicons.dev/icons?i=mysql,sqllite" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 
 ### 🔧 Tools, Servers & Version Control
-<img src="https://skillicons.dev/icons?i=windows,ubuntu,vscode,sublime,git,github,figma,cloudflare,nginx,apache,digitalocean,aws" />  
+<img src="https://skillicons.dev/icons?i=windows,vscode,eclipse,sublime,git,github,figma,discord,cloudflare,nginx,aws" />  
 
 ### Cybersecurity & Tools
 <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,powershell" />
-
-## 🛠️ Technologies I Use
-- **Frontend:** HTML, CSS, JavaScript, Vue.js, Bootstrap, TailwindCSS  
-- **Backend:** PHP, Laravel, XAMPP, Laragon  
-- **Web Servers:** Nginx, Apache  
-- **Database:** SQL, MySQL  
-- **CMS:** WordPress, Elementor, WooCommerce  
-- **Cloud & DevOps:** AWS, DigitalOcean, Cloudflare  
-- **Version Control:** Git, GitHub  
-- **Cybersecurity:** Linux, Ubuntu, Bash, Active Directory, Metasploit, Nmap, Burp Suite  
 
 ![Colorful Line](https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif)
 
