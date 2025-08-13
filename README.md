@@ -1,4 +1,6 @@
 # 💫 About Me
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=arjunrosell&color=0e75b6&style=flat)
 
 # Hey! I'm Arjun P. Rosell 👋
 
