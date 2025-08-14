@@ -20,7 +20,7 @@ I enjoy building **web applications**, exploring **cybersecurity tools**, and le
 <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 
 ### 🔧 Tools, Servers & Version Control
-<img src="https://skillicons.dev/icons?i=windows,vscode,eclipse,sublime,git,github,figma,discord,cloudflare,nginx,aws&&perline=4" />  
+<img src="https://skillicons.dev/icons?i=windows,vscode,eclipse,sublime,git,github,figma,discord,cloudflare,nginx,aws&&perline=6" />  
 
 ### Cybersecurity & Tools
 <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,powershell" />
