@@ -26,7 +26,7 @@ I enjoy building **web applications**, exploring **cybersecurity tools**, and le
 <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,powershell" />
 
 ## 📈 Contribution Activity
-https://raw.githubusercontent.com/rosellarjun/rosellarjun/df51e4bdd4616a701296004f446a274c55187db4/github-user-contribution.svg
+![GitHub Snake](https://raw.githubusercontent.com/rosellarjun/rosellarjun/df51e4bdd4616a701296004f446a274c55187db4/github-user-contribution.svg)
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosellarjunp/)
