@@ -22,7 +22,7 @@ I enjoy building **web applications**, exploring **cybersecurity tools**, and le
 ### 🔧 Tools, Servers & Version Control
 <img src="https://skillicons.dev/icons?i=windows,vscode,visualstudio,eclipse,sublime,git,github,figma,discord,cloudflare,nginx,aws&&perline=6" />  
 
-### Cybersecurity & Tools
+### 👾 Cybersecurity & Tools
 <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,powershell" />
 
 ## 📈 Contribution Activity
